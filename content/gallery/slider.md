@@ -15,22 +15,22 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: Patio construction
       content: Take a look at what we're working on...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+        media: patio1.jpg
+    - title: Roof construction
+      content: Take a look at what we're working on...
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: roof1.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
