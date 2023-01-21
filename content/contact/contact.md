@@ -53,4 +53,3 @@ design:
   columns: '1'
 ---
 
-Contact us for an estimate.
