@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Patio construction
-      content: Take a look at what we're working on...
+      content: 
       align: center
       background:
         position: right
@@ -24,24 +24,19 @@ content:
         brightness: 0.7
         media: patio1.jpg
     - title: Roof construction
-      content: Take a look at what we're working on...
+      content: 
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: roof1.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: New construction
+      content: 
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        media: newconstruction1.jpg
 ---
