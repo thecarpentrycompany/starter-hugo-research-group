@@ -18,7 +18,7 @@ content:
   email: info@thecarpentry.company
   phone: five one two three one six one two four six
   address:
-    street: 450 Serra Mall
+    #street: 450 Serra Mall
     city: Austin
     region: TX
     postcode: '78757'
