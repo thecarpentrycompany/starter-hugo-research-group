@@ -18,5 +18,4 @@ design:
 
 <br>
 
-Your German Master Carpenter in Austin, Texas
 
