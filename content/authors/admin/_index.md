@@ -9,12 +9,12 @@ superuser: true
 role: CEO
 
 # Organizations/Affiliations
-#organizations:
-#  - name: Stanford University
-#    url: ''
+organizations:
+  - name: The Carpentry Company
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Master Carpenter
 
 #interests:
 #  - Artificial Intelligence
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+#email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researcher
+  - Researchers
 ---
 
 Andreas ("Andy") Block is a Master Carpenter from Germany, where he ran a successful carpentry and construction company called Block Holzbau. 
