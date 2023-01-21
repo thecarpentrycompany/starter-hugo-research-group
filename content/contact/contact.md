@@ -24,7 +24,6 @@ content:
     postcode: '78757'
     country: United States
     country_code: US
-    latitude: '37.4275'
   #coordinates:
   #  latitude: '37.4275'
   #  longitude: '-122.1697'
