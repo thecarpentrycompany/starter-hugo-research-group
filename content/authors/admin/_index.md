@@ -6,7 +6,7 @@ title: Andreas Block
 superuser: true
 
 # Role/position
-role: CEO
+role: Owner
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio: Master Carpenter
 
 education:
   courses:
-    - course: Master Carpenter
+    - course: Master Carpenter (Zimmermeister)
       institution: Germany
       year: 2012
 #    - course: MEng in Artificial Intelligence
@@ -68,4 +68,4 @@ user_groups:
   - Leadership
 ---
 
-Andreas ("Andy") Block is a Master Carpenter from Germany, where he ran a successful carpentry and construction company called Block Holzbau. 
+Andreas ("Andy") Block is a Master Carpenter from Germany, where he ran a successful carpentry and construction company called Block Holzbau.
