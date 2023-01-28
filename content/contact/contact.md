@@ -18,7 +18,7 @@ content:
   email: info@thecarpentry.company
   phone: (512) 316-1246
   address:
-    #street: 5301 Southwest Pkwy Suite 400
+    street: 5301 Southwest Pkwy Suite 400
     city: Austin
     region: TX
     postcode: '78735'
