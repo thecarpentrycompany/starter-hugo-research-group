@@ -55,7 +55,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: roof1.jpg
-    - title: New construction
+    - title: Sauna
       content: 
       align: right
       background:
