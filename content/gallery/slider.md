@@ -15,6 +15,14 @@ design:
 
 content:
   slides:
+    - title: Outdoor kitchen
+      content: 
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: outdoor_kitchen.jpg
     - title: Patio construction
       content: 
       align: center
@@ -22,7 +30,23 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: patio1.jpg
+        media: veranda.jpg
+    - title: Patio construction
+      content: 
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: veranda2.jpg
+    - title: Wood wall panelling
+      content: 
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: wall_panelling.jpg
     - title: Roof construction
       content: 
       align: left
