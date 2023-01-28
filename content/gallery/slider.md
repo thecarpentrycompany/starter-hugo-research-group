@@ -47,14 +47,14 @@ content:
         color: '#555'
         brightness: 0.7
         media: wall_panelling.jpg
-    - title: Roof construction
+    - title: Jacuzzi
       content: 
-      align: left
+      align: right
       background:
         position: center
-        color: '#555'
-        brightness: 0.7
-        media: roof1.jpg
+        color: '#333'
+        brightness: 0.5
+        media: whirlpool_furniture.jpg
     - title: Sauna
       content: 
       align: right
