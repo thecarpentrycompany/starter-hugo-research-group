@@ -23,8 +23,8 @@ bio: Master Carpenter
 
 education:
   courses:
-    - course: Master Carpenter (Zimmermeister)
-      institution: Germany
+    - course: Master Carpenter (Zimmerermeister)
+      institution: Handwerkskammer OWL zu Bielefeld, Germany
       year: 2012
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
