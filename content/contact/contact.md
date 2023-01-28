@@ -16,12 +16,12 @@ content:
   # Contact (edit or remove options as required)
 
   email: info@thecarpentry.company
-  phone: five one two three one six one two four six
+  phone: (512) 316-1246
   address:
-    #street: 450 Serra Mall
+    #street: 5301 Southwest Pkwy Suite 400
     city: Austin
     region: TX
-    postcode: '78757'
+    postcode: '78735'
     country: United States
     country_code: US
   #coordinates:
