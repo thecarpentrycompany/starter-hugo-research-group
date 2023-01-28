@@ -27,9 +27,9 @@ bio: Logistics and office support
 
 education:
   courses:
-    - course: Industriekauffrau
-      institution: Germany
-      year: 2006
+    - course: Business Administration (Industriekauffrau)
+      institution: IHK Lippe zu Detmold
+      year: 2005
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
