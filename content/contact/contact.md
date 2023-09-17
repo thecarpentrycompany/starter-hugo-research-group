@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: info@thecarpentry.company
-  phone: (512) 230-1491
+  phone: (512) 230-1492
   address:
     street: 5301 Southwest Pkwy Suite 400
     city: Austin
