@@ -18,7 +18,7 @@ content:
   email: info@thecarpentry.company
   phone: (512) 230-1492
   address:
-    street: 13359 N Hwy 183, \#406 PMB 152
+    street: 13359 N Hwy 183, '#406' PMB 152
     city: Austin
     region: TX
     postcode: '78750'
