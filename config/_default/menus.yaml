@@ -13,9 +13,9 @@ main:
 #  - name: Events
 #    url: event
 #    weight: 40
-  - name: About
-    url: about
-    weight: 50
+#  - name: About
+#    url: about
+#    weight: 50
   - name: Contact
     url: contact
     weight: 60
